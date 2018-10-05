@@ -56,9 +56,9 @@ fi
 # Versions
 export MIN_IOS_VERSION="8.0"
 export MIN_OSX_VERSION="10.10"
-export OPENSSL_VERSION="1.0.2n"
-export LIBEVENT_VERSION="2.0.22-stable"
-export TOR_VERSION="0.3.0.13"
+export OPENSSL_VERSION="1.0.2p"
+export LIBEVENT_VERSION="2.1.8-stable"
+export TOR_VERSION="0.3.4.8"
 
 BUILT_ARCHS=()
 DEVELOPER=`xcode-select --print-path`
